@@ -1,9 +1,0 @@
-INDEX VERSION 1.134+C:\Users\rites\OneDrive\Desktop\wiproTNP\.metadata\.plugins\org.eclipse.jdt.core
-2502531786.index
-1865797976.index
-3701122443.index
-1119071467.index
-2809404534.index
-234574168.index
-725233372.index
-946630377.index
